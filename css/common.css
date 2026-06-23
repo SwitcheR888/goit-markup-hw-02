@@ -1,8 +1,11 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
 }
+
+
+
+
 
 h1,
 h2,
@@ -21,7 +24,7 @@ ol {
 }
 
 ul {
-    list-style-type: none;
+    list-style: none;
 }
 
 a {

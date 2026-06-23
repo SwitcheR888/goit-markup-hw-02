@@ -1,0 +1,18 @@
+container {
+    color: #FFFFFF;
+    background-color: #2E2F42;
+}
+
+button {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
