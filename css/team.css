@@ -5,6 +5,7 @@
 }
 
 .team h2 {
+    color: #2E2F42;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -14,7 +15,7 @@
 }
 
 .team-list {
-    ...
+    /* */
 }
 
 .team-item {
