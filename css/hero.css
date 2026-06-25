@@ -1,7 +1,5 @@
 .hero {
     background-color: #2E2F42;
-    padding: 188px 0;
-
 }
 
 .hero-title {
@@ -10,7 +8,6 @@
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    margin: 0 auto;
     text-align: center;
 }
 
@@ -20,11 +17,6 @@
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    border-radius: 4px;
-    width: 169px;
-    cursor: pointer;
-    padding: 16px 32px;
-    display: block;
 }
 
 .hero-button:hover,
