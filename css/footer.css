@@ -1,0 +1,16 @@
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer .logo-part {
+    color: #F4F4FD;
+}
+
+.footer .logo {
+    margin-bottom: 16px;
+}
+
+.footer-text {
+    color: #F4F4FD;
+    margin: 0;
+}
